@@ -1,0 +1,28 @@
+.credits {
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+.credits h1 {
+  margin-bottom: 20px;
+}
+
+.credits p,
+.credits a {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.credits a:hover {
+  color: #ddd;
+  text-decoration: underline;
+}
+
+.credits ul {
+  padding: 0;
+}
+
+.credits li {
+  margin-bottom: 10px;
+}

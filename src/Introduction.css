@@ -1,0 +1,20 @@
+/* Introduction.css - Specific to the Introduction Component */
+.introduction {
+  text-align: center;
+  line-height: 1.6;
+}
+
+.introduction p {
+  max-width: 700px;
+  /* Constrain paragraph widths for better readability */
+  text-align: justify;
+}
+
+.introduction ul {
+  text-align: left;
+
+}
+
+.introduction li {
+  margin-right: 10px;
+}

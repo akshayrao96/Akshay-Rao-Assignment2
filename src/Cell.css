@@ -1,0 +1,58 @@
+.cell {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid darkblue;
+}
+
+.cell-alive {
+  background-color: black;
+}
+
+.cell-dead {
+  background-color: white;
+}
+
+
+
+.heatmap-0 {
+  background-color: Black;
+}
+
+.heatmap-1 {
+  background-color: #550000;
+}
+
+.heatmap-2 {
+  background-color: #aa0000;
+}
+
+.heatmap-3 {
+  background-color: DarkRed;
+}
+
+.heatmap-4 {
+  background-color: #bb5500;
+}
+
+.heatmap-5 {
+  background-color: #ddaa00;
+}
+
+.heatmap-6 {
+  background-color: Yellow;
+}
+
+.heatmap-7 {
+  background-color: #ffffaa;
+}
+
+.heatmap-8 {
+  background-color: #ffffdd;
+}
+
+.heatmap-9 {
+  background-color: White;
+}

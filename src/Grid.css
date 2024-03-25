@@ -1,0 +1,59 @@
+.large-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  grid-template-columns: repeat(40, 20px);
+  place-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.container-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.counter-button-container {
+  margin-left: 0px;
+}
+
+
+button {
+  font-family: 'Verdana';
+  margin: 20px;
+  margin-left: 20px;
+  padding: 10px 10px;
+  font-size: 16px;
+  color: white;
+  background-color: #555;
+  border: thick solid 1px black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+
+.prompt-grid-dimensions {
+  font-family: 'Verdana';
+  font-size: 18px;
+  color: White;
+  text-align: center;
+  padding: 10px;
+}

@@ -1,0 +1,47 @@
+.counter {
+  font-family: 'Verdana';
+  font-size: 30px;
+  color: White;
+  text-align: center;
+
+}
+
+.heatmap-color-black {
+  background-color: black;
+}
+
+.heatmap-color-darkred {
+  background-color: darkred;
+}
+
+.heatmap-color-red {
+  background-color: red;
+}
+
+.heatmap-color-orange {
+  background-color: orange;
+}
+
+.heatmap-color-yellow {
+  background-color: yellow;
+}
+
+.heatmap-color-lightyellow {
+  background-color: lightyellow;
+}
+
+.heatmap-color-lightgray {
+  background-color: lightgray;
+}
+
+.heatmap-color-gray {
+  background-color: gray;
+}
+
+.heatmap-color-darkgray {
+  background-color: darkgray;
+}
+
+.heatmap-color-white {
+  background-color: white;
+}
